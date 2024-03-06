@@ -1,4 +1,5 @@
 # Program to calculate gross pay with overtime work
+# Rewrite the code with try/exception statement
 try:
     Hours = float(input("Enter Hours: "))
 except:
